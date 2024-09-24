@@ -9,6 +9,7 @@ Before you can run this project locally, ensure you have the following installed
 2. **Google Chrome:** The latest version of Google Chrome browser.
 3. **ChromeDriver:** A compatible version of ChromeDriver that matches your Chrome browser version. Download it from here.
 4. **Selenium WebDriver:** Install Selenium by running the following command:
+ 
    ** pip install selenium**
 5. **Pillow:** Install the Pillow library for image comparison and capture
   **  pip install Pillow**
