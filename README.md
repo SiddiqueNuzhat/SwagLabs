@@ -19,7 +19,7 @@ Before you can run this project locally, ensure you have the following installed
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
      git clone <repository_url>
-     cd <repository_directory>**
+     cd <repository_directory>
    
 3. **Download ChromeDriver:** Ensure you download the ChromeDriver for your specific Chrome browser version. Set the path of the ChromeDriver in the script if it's not globally accessible.
 4. **Running the Tests in GUI Mode** : The script first runs the tests in normal GUI mode. To execute the tests:
