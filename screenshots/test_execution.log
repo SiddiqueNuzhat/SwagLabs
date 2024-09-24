@@ -1,0 +1,14 @@
+Running in GUI mode...
+Extracted title: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+Sorted title: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+Titles are in Z-A order.
+Extracted prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+Sorted price: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+Prices are in high-low order.
+Running in headless mode...
+Extracted title: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+Sorted title: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+Titles are in Z-A order.
+Extracted prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+Sorted price: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+Prices are in high-low order.
